@@ -3,7 +3,8 @@
 
 This project implements real-time visual perception and intelligent navigation on TurtleBot4 using only camera-based sensing. It combines ArUco marker-based navigation, projective geometry for horizon and vanishing point estimation, and optical flow-based obstacle detection.
 
-[![Project Demo](screenshots/combined.mp4)](screenshots/combined.mp4)
+[![Project Demo](https://img.youtube.com/vi/jdZmPtGPZxo/0.jpg)](https://youtu.be/jdZmPtGPZxo)
+
 
 ---
 
